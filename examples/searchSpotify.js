@@ -3,10 +3,10 @@
 var sonos = new Sonos(process.env.SONOS_HOST || '192.168.1.65', process.env.SONOS_PORT || 1400)
 
 var options = {
-	apikey : "PUT APIGEE API KEY HERE",
-	username : "PUT SPOTIFY USERNAME HERE",
-	password : "PUT SPOTIFY PASSWORD HERE",
-	apigeeurl : "PUT APIGEE URL HERE",
+	apikey : "hdZZ0JnGezRDF84aG7cyMs3hGYL4eiz5",
+	username : "antxxxx",
+	password : "my bondsman will dredge a pun",
+	apigeeurl : "https://antxxxx-test.apigee.net/v1/smapi",
 	total : 17,
 	start : 15
 	
