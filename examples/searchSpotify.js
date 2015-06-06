@@ -7,12 +7,12 @@ var options = {
 	username : "antxxxx",
 	password : "my bondsman will dredge a pun",
 	apigeeurl : "https://antxxxx-test.apigee.net/v1/smapi",
-	total : 17,
-	start : 15
+	total : 10,
+	start : 0
 	
 }
 
-sonos.searchSpotify('tracks', 'new rose', options, function (err, data) {
+sonos.searchSpotify('tracks', 'coolaa gaauitar baaoy', options, function (err, data) {
     console.log(err, data)
     //console.log(data.items[0].metaData)
     //var toPlay = {
